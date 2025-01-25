@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The old book lay on the table
+=======
+the new book lay on the tables
+>>>>>>> main
